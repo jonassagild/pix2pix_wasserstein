@@ -1,0 +1,1 @@
+python3 train.py --dataroot datasets/gta_combined --name gta_p2p_wgangp --model pix2pix --gan_mode wgangp
